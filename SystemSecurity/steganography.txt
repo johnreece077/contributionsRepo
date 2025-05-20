@@ -1,0 +1,9 @@
+Steganography
+Steganography is the art of using cryptographic techniques to embed
+secret messages within another file. Steganographic algorithms work
+by making alterations to the least significant bits of the many bits that
+make up image files. The changes are so minor that there is no
+appreciable effect on the viewed image. This technique allows
+communicating parties to hide messages in plain sight—for example,
+they might embed a secret message within an illustration on an
+otherwise innocent web page.
