@@ -1,0 +1,14 @@
+Confidentiality
+Confidentiality ensures that data remains private in three different
+situations: when it is at rest, when it is in transit, and when it is in use.
+Confidentiality is perhaps the most widely cited goal of cryptosystems
+—the preservation of secrecy for stored information or for
+communications between individuals and groups. Two main types of
+cryptosystems enforce confidentiality:
+Symmetric cryptosystems use a shared secret key available to all
+users of the cryptosystem.
+Asymmetric cryptosystems use individual combinations of public
+and private keys for each user of the system. Both of these
+concepts are explored in the section “Modern Cryptography
+” later
+in this chapter.
